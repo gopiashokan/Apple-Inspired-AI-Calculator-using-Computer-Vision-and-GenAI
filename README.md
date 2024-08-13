@@ -76,9 +76,9 @@ To use this project, follow these steps:
 
 #### Gesture-Based Controls:
 
-   - ✍️ **Draw Math Problems:** Draw mathematical problems using your Thumb and Index fingers.
+   - ✍️ **Draw Math Problems:** Draw mathematical problems by lifting the Thumb and Index fingers.
    - 🖱️  **Move Around:** Navigate the screen by lifting the Thumb, Index, and Middle fingers.
-   - 🧽 **Erase Content:** Remove mistakenly drawn content by lifting the Thumb and Middle fingers.
+   - 🧽 **Erase Content:** Erase any mistakenly drawn content by activating erase mode by lifting the Thumb and Middle fingers.
    - 🗑️ **Reset Canvas:** Clear the entire drawing canvas by lifting the Thumb and Pinky fingers.
    - 📤 **Send to AI Model:** Submit the drawing for analysis by lifting the Index and Middle fingers.
 
@@ -109,9 +109,9 @@ To use this project, follow these steps:
 
    - Streamlit: [https://docs.streamlit.io/](https://docs.streamlit.io/)
    - OpenCV: [https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+   - Pillow: [https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)
    - Mediapipe: [https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
    - Google Gemini AI: [https://ai.google.dev/](https://ai.google.dev/)
-   - Pillow: [https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)
 
 
 <br />
