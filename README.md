@@ -51,8 +51,9 @@ To use this project, follow these steps:
 
 1. Clone the repository: ```git clone https://github.com/gopiashokan/Apple-Inspired-AI-Calculator.git```
 2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in your browser at ```http://localhost:8501```
+3. Add your Google API key to the `.env` file.
+4. Run the Streamlit app: ```streamlit run app.py```
+5. Access the app in your browser at ```http://localhost:8501```
 
 <br />
 
@@ -71,12 +72,14 @@ To use this project, follow these steps:
 
    - **Landmark Visualization and Extraction:** Draws landmarks on the detected hand and extracts the origin coordinates of each landmark. These coordinates are crucial for accurately recognizing gestures, which in turn control different functionalities within the application.
 
-   - **Gesture-Based Controls:**
-      - ✍️ **Draw Math Problems:** Draw mathematical problems using your Thumb and Index fingers.
-      - 🖱️  **Move Around:** Navigate the screen by lifting the Thumb, Index, and Middle fingers.
-      - 🧽 **Erase Content:** Remove mistakenly drawn content by lifting the Thumb and Middle fingers.
-      - 🗑️ **Reset Canvas:** Clear the entire drawing canvas by lifting the Thumb and Pinky fingers.
-      - 📤 **Send to AI Model:** Submit the drawing for analysis by lifting the Index and Middle fingers.
+
+#### Gesture-Based Controls:
+
+   - ✍️ **Draw Math Problems:** Draw mathematical problems using your Thumb and Index fingers.
+   - 🖱️  **Move Around:** Navigate the screen by lifting the Thumb, Index, and Middle fingers.
+   - 🧽 **Erase Content:** Remove mistakenly drawn content by lifting the Thumb and Middle fingers.
+   - 🗑️ **Reset Canvas:** Clear the entire drawing canvas by lifting the Thumb and Pinky fingers.
+   - 📤 **Send to AI Model:** Submit the drawing for analysis by lifting the Index and Middle fingers.
 
 
 #### Drawing and Blending:
@@ -103,11 +106,11 @@ To use this project, follow these steps:
 
 #### References:
 
-   - Streamlit: ![https://docs.streamlit.io/](https://docs.streamlit.io/)
-   - OpenCV: ![https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-   - Mediapipe: ![https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
-   - Google Gemini AI: ![https://ai.google.dev/](https://ai.google.dev/)
-   - Pillow: ![https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)
+   - Streamlit: [https://docs.streamlit.io/](https://docs.streamlit.io/)
+   - OpenCV: [https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+   - Mediapipe: [https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
+   - Google Gemini AI: [https://ai.google.dev/](https://ai.google.dev/)
+   - Pillow: [https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)
 
 
 <br />
