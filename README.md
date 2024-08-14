@@ -1,4 +1,4 @@
-# Apple-Inspired AI Calculator
+# Apple-Inspired AI Calculator using Computer Vision and GenAI
 
 **Introduction**
 
