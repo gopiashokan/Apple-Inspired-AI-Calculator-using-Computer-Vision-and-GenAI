@@ -113,6 +113,7 @@ To use this project, follow these steps:
    - Pillow: [https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)
    - Mediapipe: [https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
    - Google Gemini AI: [https://ai.google.dev/](https://ai.google.dev/)
+   - YouTube: [Advanced Computer Vision with Python - Full Course](https://youtu.be/01sAkU_NvOY?si=Igq78i6MG1mnUY7Z)
 
 
 <br />
