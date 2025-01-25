@@ -1,4 +1,4 @@
-# Apple-Inspired AI Calculator using Computer Vision and GenAI
+# Apple-Inspired AI Calculator using Computer Vision and Generative AI
 
 **Introduction**
 
@@ -24,7 +24,7 @@ The Apple-Inspired AI Calculator is an advanced project designed to tackle mathe
 - OpenCV
 - Pillow
 - MediaPipe
-- Google Generative AI
+- Google Gemini AI
 - Numpy
 - Streamlit
 
